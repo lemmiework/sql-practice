@@ -6,7 +6,7 @@
       - LEFT JOIN - join table rows from table A even if there's no match in table B
       - RIGHT JOIN - reverse of LEFT JOIN
       - FULL JOIN - both table rows are kept even if it doesnt match
-- NULL - values that is like an equivalent to zero or none data
+- NULL - with no value, test with IS NULL/IS NOT NULL
   
 ## SQL Lesson 6: Multi-table queries with JOINs
 ### Select query with INNER JOIN on multiple tables
